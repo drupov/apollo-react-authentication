@@ -1,6 +1,6 @@
 # Apollo React Authetication Demo
 
-A demo React app for authentication (only frontend).
+Demo React app for authentication with Apollo Context and Drupal 8.
 
 Should work with a Drupal 8 as backend and JWT module installed and configured there.
 
